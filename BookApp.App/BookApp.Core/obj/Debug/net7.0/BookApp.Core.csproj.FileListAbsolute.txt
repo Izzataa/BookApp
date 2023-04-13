@@ -1,0 +1,12 @@
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\bin\Debug\net7.0\BookApp.Core.deps.json
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\bin\Debug\net7.0\BookApp.Core.dll
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\bin\Debug\net7.0\BookApp.Core.pdb
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.dll
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\refint\BookApp.Core.dll
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\BookApp.Core.pdb
+C:\Users\Murad\Desktop\Tasks c#\BookApp.App\BookApp.Core\obj\Debug\net7.0\ref\BookApp.Core.dll
